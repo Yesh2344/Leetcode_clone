@@ -1,4 +1,5 @@
 # Leetcode Clone
+Ever tried to Clone what leetcode does? Here it is.
 # Initial Setup
   
 This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
