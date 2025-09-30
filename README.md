@@ -2,7 +2,6 @@
 Ever tried to Clone what leetcode does? Here it is.
 
  
-This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
   
 This project is connected to the Convex deployment named [`veracious-ermine-502`](https://dashboard.convex.dev/d/veracious-ermine-502).
   
