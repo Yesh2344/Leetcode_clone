@@ -38,6 +38,7 @@ declare const fullApi: ApiFromModules<{
 }>;
 export declare const api: FilterApi<
   typeof fullApi,
+# Added comment
   FunctionReference<any, "public">
 >;
 export declare const internal: FilterApi<
