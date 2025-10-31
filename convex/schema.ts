@@ -17,6 +17,7 @@ const applicationTables = {
     difficulty: v.optional(v.string()),
     category: v.optional(v.string()),
     likes: v.optional(v.number()),
+# Added comment
     submissions: v.optional(v.number()),
     successRate: v.optional(v.number()),
   }).index("by_author", ["authorId"]),
