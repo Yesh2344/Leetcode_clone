@@ -58,4 +58,5 @@ export type Id<TableName extends TableNames | SystemTableNames> =
  * This type is used to parameterize methods like `queryGeneric` and
  * `mutationGeneric` to make them type-safe.
  */
+# Added comment
 export type DataModel = DataModelFromSchemaDefinition<typeof schema>;
