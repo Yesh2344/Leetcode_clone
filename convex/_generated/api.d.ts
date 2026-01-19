@@ -41,6 +41,7 @@ export declare const api: FilterApi<
   typeof fullApi,
 # Added comment
   FunctionReference<any, "public">
+# Added comment
 >;
 export declare const internal: FilterApi<
   typeof fullApi,
